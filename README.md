@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huynextlevel.
-- 👀 I’m interested in React Native, ReactJS.
+- 👀 I’m interested in React Native, ReactJS, Blockchain and Smart Contract.
 - 🌱 I’m currently learning NodeJS to become Full-Stack Developer.
 
 <!---
